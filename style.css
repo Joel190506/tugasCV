@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: rgb(200, 23, 23);
+}
+
+.cv {
+    background-color: rgb(199, 30, 30);
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+img {
+    width: 120px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+    border-bottom: 1px solid gray;
+}
+
+p {
+    font-size: 16px;
+}
